@@ -9,7 +9,7 @@ A simple API using deno!
 1. Install [deno](https://deno.land/#installation)
 2. Clone this project
 3. Run this command `deno run --allow-net  server.ts`
-4. Enjoy :s
+4. Go to [go to localhost: 8000](localhost: 8000) and be happy
 
 ## Routes
 
