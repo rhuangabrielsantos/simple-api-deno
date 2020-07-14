@@ -13,13 +13,13 @@ A simple API using deno!
 
 ## Routes
 
-| METHOD | URI | Description |
+| METHODS | URI | Description |
 | ----- | ---- | ---- |
 | GET | /products | Get all products |
 | GET | /products/:id | Get specific product |
 | POST | /products | Add Product |
-| PUT | '/products/:id | Update product |
-| DELETE | '/products/:id | Delete product
+| PUT | /products/:id | Update product |
+| DELETE | /products/:id | Delete product
 
 
 ```
